@@ -13,6 +13,14 @@
   ],
   "tokens": [
     {
+      "name": "FSD",
+      "address": "0x3DF2e1Eba83704d00B091EAE6F2B22444F88127a",
+      "symbol": "FSD",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://raw.githubusercontent.com/mul53/default-token-list/master/assets/0x3DF2e1Eba83704d00B091EAE6F2B22444F88127a/logo.png"
+    },
+    {
       "name": "Dai Stablecoin on Fuse",
       "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
       "symbol": "DAI",
